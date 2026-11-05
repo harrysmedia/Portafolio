@@ -18,7 +18,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Campaña de expectativa para redes sociales",
       "rol": "Producción audiovisual · Edición · Co-dirección creativa",
       "video": "Videos/Veneplast.mp4",
-      "portada": "Imagenes/portadaveneplast.png"
+      "portada": "imagenes/portadaveneplast.png"
     },
     {
       "cliente": "Daniela Akel Beauty Clinic",
@@ -27,7 +27,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Cubrimiento de evento para una experiencia de bienestar estético",
       "rol": "Producción audiovisual · Edición",
       "video": "Videos/Luisafw.mp4",
-      "portada": "Imagenes/portadadani.png"
+      "portada": "imagenes/portadadani.png"
     },
     {
       "cliente": "Infinity Dreams",
@@ -36,7 +36,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Contenido lifestyle para redes sociales",
       "rol": "Producción audiovisual · Edición",
       "video": "Videos/FACIALTERAPY.mp4",
-      "portada": "Imagenes/girlterapy.png"
+      "portada": "imagenes/girlterapy.png"
     },
     {
       "cliente": "Dualé Fitness Studio",
@@ -45,7 +45,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Cubrimiento del evento de inauguración de Dualé Fitness Studio.",
       "rol": "Producción audiovisual · Edición",
       "video": "Videos/DUALEFEST.mp4",
-      "portada": "Imagenes/DUALEFEST.png"
+      "portada": "imagenes/DUALEFEST.png"
     },
     {
       "cliente": "Belleza Veneplast",
@@ -54,7 +54,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Cubrimiento de evento de medios en el festival de musica Wakanda",
       "rol": "Producción audiovisual · Edición · Co-dirección creativa",
       "video": "Videos/Wakandafest.mp4",
-      "portada": "Imagenes/Wakandafest.png"
+      "portada": "imagenes/Wakandafest.png"
     },
     {
       "cliente": "Saltmarine",
@@ -63,7 +63,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Creación de contenido para redes sociales",
       "rol": "Producción audiovisual · Edición ",
       "video": "Videos/Ultraceramic.mp4",
-      "portada": "Imagenes/Ultraceramic.png"
+      "portada": "imagenes/Ultraceramic.png"
     },
     {
       "cliente": "Luxury Service",
@@ -72,7 +72,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Creación de contenido para redes sociales",
       "rol": "Producción audiovisual · Edición · Guión",
       "video": "Videos/Tiresales.mp4",
-      "portada": "Imagenes/Tiresales.png"
+      "portada": "imagenes/Tiresales.png"
     },
     {
       "cliente": "Casa Guzmán",
@@ -81,7 +81,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Contenido de expectativa para evento de Halloween",
       "rol": "Producción audiovisual · Edición · Co-dirección creativa",
       "video": "Videos/Katrinasday.mp4",
-      "portada": "Imagenes/Katrinasday.png"
+      "portada": "imagenes/Katrinasday.png"
     },
     {
       "cliente": "Infinity Dreams",
@@ -90,7 +90,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Creación de contenido para redes sociales",
       "rol": "Producción audiovisual · Edición · Guión",
       "video": "Videos/Coolshaping.mp4",
-      "portada": "Imagenes/Coolshaping.png"
+      "portada": "imagenes/Coolshaping.png"
     },
     {
       "cliente": "Hotel Neos",
@@ -99,7 +99,7 @@ window.PORTFOLIO_DATA = {
       "descripcion": "Creación de contenido para redes sociales",
       "rol": "Producción audiovisual · Edición · Guión",
       "video": "Videos/Neoshotel.mp4",
-      "portada": "Imagenes/Neoshotel.png"
+      "portada": "imagenes/Neoshotel.png"
     }
   ]
 };
